@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gittproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1920417dfb74e02db8be0dbce304a425d4e1db")]
 [assembly: System.Reflection.AssemblyProductAttribute("gittproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gittproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
